@@ -1,2 +1,2 @@
-a=list(map(int,input().split()))
-print(a[0]**a[1])
+b=list(map(int,input().split()))
+print(b[0]**b[1])
