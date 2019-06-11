@@ -1,7 +1,7 @@
-y=int(input())
-if(y%4==0):
-  if(y%400==0):
-    if(y%100!=0):
+a1=int(input())
+if(a1%4==0):
+  if(a1%400==0):
+    if(a1%100!=0):
       print("yes")
 else:
   print("yes")
