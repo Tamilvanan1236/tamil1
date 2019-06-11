@@ -1,6 +1,7 @@
-a3=input()
-b2=a3.isalpha()
-if(b2==True):
-  print("Alphabet")
-else:
-  print("No")
+a=input()
+for i in range(a,z):
+  if(a==i):
+    print("Alphabet")
+for i in range(A,Z):
+  if(a==i):
+    print("Alphabet")
