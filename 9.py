@@ -3,7 +3,7 @@ if(a1%4==0):
   if(a1%400==0):
     if(a1%100!=0):
       print("yes")
-else:
-  print("yes")
+  else:
+    print("yes")
 else:
   print("no")
