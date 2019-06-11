@@ -1,7 +1,7 @@
-b1=int(input())
-if(b1%4==0):
-  if(b1%400==0):
-    if(b1%100!=0):
+c1=int(input())
+if(c1%4==0):
+  if(c1%400==0):
+    if(c1%100!=0):
       print("yes")
   else:
     print("yes")
