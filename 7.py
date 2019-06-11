@@ -4,5 +4,5 @@ if(n=='a' or n=='e' or n=='i' or n=='o' or n=='u' or n=='A' n=='E' or n=='I' or 
 elif(n=='@' or n=='#' or n=='!' or n=='&' or n=='$'):
   print("invalid")
 else:
-  print("Consonants")
+  print("Consonant")
   
